@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+         "USD_spread":"10850.70", 
+         "points":"0.9259",
+         "empty":"-"
+    },
+    {
+        "id": 2,
+         "USD_spread":"3800.00", 
+         "points":"0.9258",
+         "empty":"-"
+    },
+    {
+        "id": 3,
+         "USD_spread":"3800.00", 
+         "points":"0.9257",
+         "empty":"-"
+    },
+    {
+        "id": 4,
+         "USD_spread":"8760.01", 
+         "points":"0.9256",
+         "empty":"-"
+    },
+    {
+        "id": 5,
+         "USD_spread":"12362.86", 
+         "points":"0.9255",
+         "empty":"-"
+    },
+    {
+        "id": 6,
+         "USD_spread":"9928.69", 
+         "points":"0.9254",
+         "empty":"-"
+    },
+    {
+        "id": 7,
+         "USD_spread":"6500.26", 
+         "points":"0.9253",
+         "empty":"-"
+    },
+    {
+        "id": 8,
+         "USD_spread":"4323.22", 
+         "points":"0.9252",
+         "empty":"-"
+    },
+    {
+        "id": 9,
+         "USD_spread":"5342.44", 
+         "points":"0.9251",
+         "empty":"-"
+    },
+    {
+        "id": 10,
+         "USD_spread":"10534.33", 
+         "points":"0.9250",
+         "empty":"-"
+    },
+    {
+        "id": 11,
+         "USD_spread":"11342.75", 
+         "points":"0.9249",
+         "empty":"-"
+    },
+    {
+        "id": 12,
+         "USD_spread":"6445.90", 
+         "points":"0.9248",
+         "empty":"-"
+    },
+    {
+        "id": 13,
+         "USD_spread":"5391.09", 
+         "points":"0.9247",
+         "empty":"-"
+    }
+]
