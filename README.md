@@ -8,16 +8,19 @@ one major warning I would like to say is about the screen optimization, clearly 
 
 another thing I would like to explain about the mobile view I have also not worked on it as I mailed the team and asked them they said that it would be a great if I add the mobile view too but it was late a little bit and I have created major portion of the project.
 
-Finally I would like to bring your view over the css work I used tailwind css.
+Finally I would like to bring your view over the css work I used tailwind css. 
 
-### Imp note 2:
-
-type `npm install` to insall all modules to run the file in local host.
+## Link to the site live: 
+`https://ag-coinbase-clone.netlify.app/`
 
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run: 
+
+
+### `npm install`
+use this to insall all modules to run the file in local host.
 
 ### `npm start`
 
