@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Important note: 
 
-one major warning I would like to say is about the screen optimization, clearly optimal screen to view the project would be a screen of 14inch laptop.
+one major warning I would like to say is about the screen optimization, clearly optimal screen to view the project would be a screen of 15.6inch laptop.
 
 another thing I would like to explain about the mobile view I have also not worked on it as I mailed the team and asked them they said that it would be a great if I add the mobile view too but it was late a little bit and I have created major portion of the project.
 
